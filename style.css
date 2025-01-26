@@ -1,0 +1,21 @@
+body: {
+    background-color:"F0F8FF";
+    font-family: Arial, Sans-Serif;
+    padding: 20px;
+    Margin: 0;
+}
+
+h1: {
+    color:"000000";
+    text-align: center;
+}
+
+img: {
+    border: 2px solid;
+    border-radius: 8px;
+}
+
+ul: {
+    list-style-type: square;
+    padding-left: 20px;
+}
